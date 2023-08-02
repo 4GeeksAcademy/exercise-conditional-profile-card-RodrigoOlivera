@@ -56,7 +56,8 @@ window.onload = function() {
     // this is the url of the image that will used as background for the profile cover
     background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
     // this is the url for the profile avatar
-    avatarURL: "https://randomuser.me/api/portraits/women/42.jpg",
+    avatarURL:
+      "https://scontent.fmvd4-1.fna.fbcdn.net/v/t39.30808-6/318184721_1564597893969450_7487562533017140727_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG-r0BUwRIU77-Y13opuCe0cy3WasQh1UdzLdZqxCHVRzTuNJ1kpbnapT4UWRzZaKMi6EmcnbkcBBmYY3Lm_7Oa&_nc_ohc=Claa0ioodn4AX9r0a1D&_nc_ht=scontent.fmvd4-1.fna&oh=00_AfDFeCiZ5XcGG9T6A13S1U4nH9dAFiIROHfE7-ZMBdDwrQ&oe=64CE4B18",
     // social media bar position (left or right)
     socialMediaPosition: "position-right",
     // social media usernames
